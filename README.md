@@ -1,7 +1,7 @@
 # Mobile-App-Development-Projects
 
 
-Here I will be sharing the project work here in the coming days
+Here I will be sharing the project work that I do in the coming days
 
 I will do three Projects 
 <ol>
