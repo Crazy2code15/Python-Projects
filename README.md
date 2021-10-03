@@ -32,7 +32,7 @@
     
 
 # #50Projectsin50Days (for practice)
-This includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model) 
+This includes 50 mini project ideas in HTML, CSS & JavaScript that relate to the DOM (Document Object Model) 
 <ol>
   <li> Expanding Cards </li>
   <li> Progress Steps </li>
