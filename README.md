@@ -85,4 +85,4 @@ This includes 50 mini project ideas in HTML, CSS & JavaScript that relate to the
 <li> Todo List </li>
 <li> Insect Catch Game </li>
   </ol>
-<a href="https://www.meetcourse.com/50-projects-in-50-days-html-css-and-javascript/" >List Taken From </a>
+<!-- <a href="https://www.meetcourse.com/50-projects-in-50-days-html-css-and-javascript/" >List Taken From </a>>
