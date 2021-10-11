@@ -1,18 +1,15 @@
 from flask import Flask, render_template, Markup
-import random
+import requests
 
 app = Flask(__name__)
-@app.route("/")
+@app.route("/", methods=['POST', 'GET'])
 def home():
-    quotes = [
-    'You are the shuckiest shuck faced shuck in the world!',
-    'Insane means fewer cameras!',
-    "I'm about as intimidating as a butterfly.",
-    'Act first, explain later.'
-]
+    base_url = "https://zenquotes.io/api/random"
+    response = requests.get(base_url)
+    raw = response.json()
+    quote = Markup(f"{raw[0]['q']} <br/>- {raw[0]['a']}")
 
-    random_quotes = random.choice(quotes)
-    return render_template('index.html', quote=random_quotes)
+    return render_template('index.html', quote=quote)
 
 if __name__ == '__main__':
     app.run(threaded=True)
