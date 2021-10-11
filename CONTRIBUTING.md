@@ -9,3 +9,5 @@ Don't forget put your name
 -Sakshi Joshi[https://github.com/SakshiJoshi26]
 
 -[Puppala Pranay](https://github.com/puppala-pranay)
+
+-[Akash Gupta](https://github.com/gakash2k01)
