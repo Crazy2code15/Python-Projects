@@ -1,12 +1,5 @@
-Add simple python code
+<p align="center"><img src= "https://user-images.githubusercontent.com/63441963/140615985-ea0d5782-c2b6-4ada-8448-dab5fa6b8dc3.png"></p>
 
+<h1 align="center"><em> Hacktoberfest-2021 Completed </em></h1>
 
-
-Step By Step:
-
-1. star and fork this repo
-2. build your simple project you like
-3. add your name in CONTRIBUTING.md
-4. pull request
-5. done
-Thank you for participate with this repo. let's connect with me by following me in github.
+Thank you for your participation into this repo of Python Projects. Let's connect with me by following me on <a href="https://github.com/Crazy2code15">Github</a>.
